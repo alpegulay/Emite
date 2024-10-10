@@ -1,0 +1,6 @@
+D:\Dev\Emite\App.Exam.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Dev\Emite\App.Exam.Test\obj\Debug\net6.0\App.Exam.Test.csproj.AssemblyReference.cache
+D:\Dev\Emite\App.Exam.Test\obj\Debug\net6.0\App.Exam.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Emite\App.Exam.Test\obj\Debug\net6.0\App.Exam.Test.AssemblyInfoInputs.cache
+D:\Dev\Emite\App.Exam.Test\obj\Debug\net6.0\App.Exam.Test.AssemblyInfo.cs
+D:\Dev\Emite\App.Exam.Test\obj\Debug\net6.0\App.Exam.Test.csproj.CoreCompileInputs.cache

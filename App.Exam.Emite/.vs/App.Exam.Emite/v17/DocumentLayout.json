@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Emite\\App.Exam.Emite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A60E9E3-B5CB-4C68-9180-85B175280594}|..\\App.Exam.Emite.Data.Tests\\App.Exam.Emite.Data.Tests.csproj|d:\\dev\\emite\\app.exam.emite.data.tests\\repositories\\customerrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A60E9E3-B5CB-4C68-9180-85B175280594}|..\\App.Exam.Emite.Data.Tests\\App.Exam.Emite.Data.Tests.csproj|d:\\dev\\emite\\app.exam.emite.data.tests\\repositories\\callrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepositoryTests.cs",
+              "DocumentMoniker": "D:\\Dev\\Emite\\App.Exam.Emite.Data.Tests\\Repositories\\CustomerRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\App.Exam.Emite.Data.Tests\\Repositories\\CustomerRepositoryTests.cs",
+              "ToolTip": "D:\\Dev\\Emite\\App.Exam.Emite.Data.Tests\\Repositories\\CustomerRepositoryTests.cs",
+              "RelativeToolTip": "..\\App.Exam.Emite.Data.Tests\\Repositories\\CustomerRepositoryTests.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAhwEgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:23:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallRepositoryTests.cs",
+              "DocumentMoniker": "D:\\Dev\\Emite\\App.Exam.Emite.Data.Tests\\Repositories\\CallRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\App.Exam.Emite.Data.Tests\\Repositories\\CallRepositoryTests.cs",
+              "ToolTip": "D:\\Dev\\Emite\\App.Exam.Emite.Data.Tests\\Repositories\\CallRepositoryTests.cs",
+              "RelativeToolTip": "..\\App.Exam.Emite.Data.Tests\\Repositories\\CallRepositoryTests.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAswG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:23:23.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

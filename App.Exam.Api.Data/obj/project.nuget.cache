@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zRPnny0KLaOI1y/VCeRTtejDPaQLInVetixZKmrNtUKrS8BqXJ2BUKd5qUWdE1QztH3RSG+7y4IyNHqJXltATw==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Emite\\App.Exam.Api.Data\\App.Exam.Api.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dobiz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dobiz\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dobiz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dobiz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Dobiz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Dobiz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

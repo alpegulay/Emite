@@ -1,0 +1,15 @@
+D:\Dev\Emite\App.Exam.Emite.Api.Core\bin\Debug\net6.0\App.Exam.Emite.Api.Core.deps.json
+D:\Dev\Emite\App.Exam.Emite.Api.Core\bin\Debug\net6.0\App.Exam.Emite.Api.Core.dll
+D:\Dev\Emite\App.Exam.Emite.Api.Core\bin\Debug\net6.0\App.Exam.Emite.Api.Core.pdb
+D:\Dev\Emite\App.Exam.Emite.Api.Core\bin\Debug\net6.0\App.Exam.Emite.Data.dll
+D:\Dev\Emite\App.Exam.Emite.Api.Core\bin\Debug\net6.0\App.Exam.Emite.Data.pdb
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\App.Exam.Emite.Api.Core.csproj.AssemblyReference.cache
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\App.Exam.Emite.Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\App.Exam.Emite.Api.Core.AssemblyInfoInputs.cache
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\App.Exam.Emite.Api.Core.AssemblyInfo.cs
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\App.Exam.Emite.Api.Core.csproj.CoreCompileInputs.cache
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\App.Exam.2184E35A.Up2Date
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\App.Exam.Emite.Api.Core.dll
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\refint\App.Exam.Emite.Api.Core.dll
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\App.Exam.Emite.Api.Core.pdb
+D:\Dev\Emite\App.Exam.Emite.Api.Core\obj\Debug\net6.0\ref\App.Exam.Emite.Api.Core.dll

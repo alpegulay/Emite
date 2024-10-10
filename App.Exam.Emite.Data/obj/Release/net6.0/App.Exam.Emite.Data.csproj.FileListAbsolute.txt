@@ -1,0 +1,12 @@
+D:\Dev\Emite\App.Exam.Emite.Data\bin\Release\net6.0\App.Exam.Emite.Data.deps.json
+D:\Dev\Emite\App.Exam.Emite.Data\bin\Release\net6.0\App.Exam.Emite.Data.dll
+D:\Dev\Emite\App.Exam.Emite.Data\bin\Release\net6.0\App.Exam.Emite.Data.pdb
+D:\Dev\Emite\App.Exam.Emite.Data\obj\Release\net6.0\App.Exam.Emite.Data.csproj.AssemblyReference.cache
+D:\Dev\Emite\App.Exam.Emite.Data\obj\Release\net6.0\App.Exam.Emite.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Emite\App.Exam.Emite.Data\obj\Release\net6.0\App.Exam.Emite.Data.AssemblyInfoInputs.cache
+D:\Dev\Emite\App.Exam.Emite.Data\obj\Release\net6.0\App.Exam.Emite.Data.AssemblyInfo.cs
+D:\Dev\Emite\App.Exam.Emite.Data\obj\Release\net6.0\App.Exam.Emite.Data.csproj.CoreCompileInputs.cache
+D:\Dev\Emite\App.Exam.Emite.Data\obj\Release\net6.0\App.Exam.Emite.Data.dll
+D:\Dev\Emite\App.Exam.Emite.Data\obj\Release\net6.0\refint\App.Exam.Emite.Data.dll
+D:\Dev\Emite\App.Exam.Emite.Data\obj\Release\net6.0\App.Exam.Emite.Data.pdb
+D:\Dev\Emite\App.Exam.Emite.Data\obj\Release\net6.0\ref\App.Exam.Emite.Data.dll
