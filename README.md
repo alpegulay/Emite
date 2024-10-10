@@ -33,3 +33,6 @@ The solution was designed with N-Tier architecture approach. Basically 3 project
 
 3- Data - This is where the data-access layer resides. This is the representation of the Backend DB entities. From this, we can control the type of DB we need to the project.
 
+## Bruno collection
+
+Emite.rar
