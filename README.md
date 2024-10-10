@@ -3,7 +3,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Building a Call Center Management API
+Building a Call Center Management API. 
+This is still a half bake implementatio. Been so busy lately and could not spend good time on this. But never the less, I am sending my solution for the team to check.
 
 
 ## Installation
